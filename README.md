@@ -16,6 +16,7 @@ https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drive
 
 # UI 
 You can also select the types of news you are intrested and the app suggests you such kind :
+
 Splash screen :
 
 ![newspaperbnw](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/281555ff-22ca-47a7-a812-5a2fab290ab7)
