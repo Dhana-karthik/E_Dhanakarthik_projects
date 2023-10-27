@@ -9,7 +9,9 @@ https://newsapi.org/
 
 
 # APK FILE LINK 
+
 The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
+
 https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk
 
 
@@ -32,6 +34,7 @@ Inner UI:
 # SEARCH NEWS
 
 Use search bar to find the news faster :
+
 ![WhatsApp Image 2023-10-27 at 9 29 55 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/4c862c9a-8977-4ecd-be55-dc73f9f40117)
 
 
