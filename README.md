@@ -4,8 +4,13 @@
 This app provides you to watch and read news with different genres that you select like sports , entertainment , buisness etc . 
 
 
+# API 
+https://newsapi.org/
 
 
+# APK FILE LINK 
+The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
+https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk
 
 
 
