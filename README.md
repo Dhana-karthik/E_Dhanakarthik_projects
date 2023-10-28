@@ -4,11 +4,11 @@
 This app provides you to watch and read news with different genres that you select like sports , entertainment , buisness etc . 
 
 
-# API 
+## API 
 https://newsapi.org/
 
 
-# APK FILE LINK 
+## APK FILE LINK 
 
 The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
 
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drive
 
 
 
-# UI 
+## UI 
 You can also select the types of news you are intrested and the app suggests you such kind :
 
 Splash screen :
@@ -31,7 +31,7 @@ Inner UI:
 ![WhatsApp Image 2023-10-27 at 9 27 02 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/08609daf-123a-4143-a1b9-82c035fa114b)
 
 
-# SEARCH NEWS
+## SEARCH NEWS
 
 Use search bar to find the news faster :
 
