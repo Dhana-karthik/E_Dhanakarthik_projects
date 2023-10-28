@@ -42,6 +42,6 @@ Use search bar to find the news faster :
 
 # Future plans 
 
-1) Add OTP , gmail login authorization
+1) Add OTP , gmail login authentication 
 2) Changing themes of the app
 3) Saved wanted news or archieve few news .
