@@ -42,8 +42,7 @@ Use search bar to find the news faster :
 
 ![WhatsApp Image 2023-10-27 at 9 29 55 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/4c862c9a-8977-4ecd-be55-dc73f9f40117)
 
-
-
+<hr><hr><hr>
 
 # Future plans 
 
