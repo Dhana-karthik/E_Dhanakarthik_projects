@@ -27,7 +27,8 @@ Splash screen :
 ![newspaperbnw](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/281555ff-22ca-47a7-a812-5a2fab290ab7)
 
 <hr><br><br><br>
-Inner UI:
+
+## Inner UI:
 
 ![WhatsApp Image 2023-10-27 at 8 52 09 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/7bdb1248-8102-44fa-94a7-eb50dec775a5)
 ![WhatsApp Image 2023-10-27 at 8 52 10 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/fa4f1b2b-7908-4f81-ac87-66d8c8aae8a4)
