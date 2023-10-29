@@ -34,15 +34,15 @@ Splash screen :
 ![WhatsApp Image 2023-10-27 at 8 52 10 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/fa4f1b2b-7908-4f81-ac87-66d8c8aae8a4)
 ![WhatsApp Image 2023-10-27 at 9 27 02 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/08609daf-123a-4143-a1b9-82c035fa114b)
 
-<hr><br><br><br><<br>
+<br><br><br><br><hr>
 
-## SEARCH NEWS
+## SEARCH NEWS :
 
 Use search bar to find the news faster :
 
 ![WhatsApp Image 2023-10-27 at 9 29 55 PM](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/4c862c9a-8977-4ecd-be55-dc73f9f40117)
 
-<hr><hr><hr>
+<br><br><br>
 
 # Future plans 
 
