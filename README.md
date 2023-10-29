@@ -5,6 +5,9 @@ This app provides you to watch and read news with different genres that you sele
 <hr><br><br><br>
 
 ## API 
+<br>
+Extracted daily news from third part api :
+<br>
 https://newsapi.org/
 
 <hr><br><br><br>
