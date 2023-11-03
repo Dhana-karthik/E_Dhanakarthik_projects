@@ -15,8 +15,8 @@ Extracted daily news from third part api known as :
 ## APK FILE LINK 
 
 The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
-<br>
-<a href ="https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk">Download  </a> from here
+<br><br>
+<a href ="https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk">Download </a> from here
 
 
 <hr><br><br><br>
