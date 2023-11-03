@@ -47,4 +47,4 @@ Use search bar to find the news faster :
 
 1) Add OTP , gmail login authentication 
 2) Changing themes of the app
-3) Saved wanted news or archieve few news .
+3) Saved and share important news or archieve few news .
