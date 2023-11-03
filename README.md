@@ -2,7 +2,7 @@
 
 
 This app provides you to watch and read news with different genres that you select like sports , entertainment , buisness etc . 
-<hr><br><br><br>
+<br><br><br><hr>
 
 ## API 
 <br>
@@ -11,7 +11,7 @@ Extracted daily news from third part api known as :
 <a href="https://newsapi.org/" > NEWS API</a>
 
 
-<hr><br><br><br>
+<br><br><br><hr>
 ## APK FILE LINK 
 
 The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
@@ -19,7 +19,7 @@ The link leads to gdrive with a apk file download it in your android device and 
 <a href ="https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk">Download </a> from here
 
 
-<hr><br><br><br>
+<br><br><br><hr>
 
 ## UI 
 You can also select the types of news you are intrested and the app suggests you such kind :
@@ -28,7 +28,7 @@ Splash screen :
 
 ![newspaperbnw](https://github.com/Dhana-karthik/E_Dhanakarthik_projects/assets/147986718/281555ff-22ca-47a7-a812-5a2fab290ab7)
 
-<hr><br><br><br>
+<br><br><br><hr>
 
 ## Inner UI:
 
