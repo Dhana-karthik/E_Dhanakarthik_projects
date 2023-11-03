@@ -6,17 +6,18 @@ This app provides you to watch and read news with different genres that you sele
 
 ## API 
 <br>
-Extracted daily news from third part api :
+Extracted daily news from third part api known as :
 <br>
-<a href="https://newsapi.org/" >NEWS API</a>
-https://newsapi.org/
+<a href="https://newsapi.org/" > NEWS API</a>
+
 
 <hr><br><br><br>
 ## APK FILE LINK 
 
 The link leads to gdrive with a apk file download it in your android device and enjoy the expierence :
+<br>
+<a href ="https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk">Download  </a> from here
 
-https://drive.google.com/file/d/15x9_tMDqSi9Tb4G1ts7uZ66kDRb1QdAe/view?usp=drivesdk
 
 <hr><br><br><br>
 
