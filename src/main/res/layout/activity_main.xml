@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+       android:text="@string/app_name"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:background="@color/my_primary"
+        android:textStyle="bold"
+        android:id="@+id/app_title"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We are faster than light"
+        android:textColor="@color/white"
+        android:background="@color/my_primary"
+        android:gravity="center"
+        />
+
+
+    <HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:id="@+id/horizantal_buttons"
+    >
+    <LinearLayout
+        android:background="#FAF7F7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.SearchView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:queryHint="SEARCH NEWS HERE"
+            android:background="#E8E3E3"
+            android:layout_gravity="center"
+            android:id="@+id/search_viewbar"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn1"
+            android:layout_margin="6dp"
+            android:text="GENERAL"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn2"
+            android:layout_margin="6dp"
+            android:text="ENTERTAINMENT"
+            />
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn3"
+        android:layout_margin="6dp"
+        android:text="TECHNOLOGY"
+        />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn4"
+            android:layout_margin="6dp"
+            android:text="BUISNESS"
+            />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn5"
+            android:layout_margin="6dp"
+            android:text="HEALTH"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn6"
+            android:layout_margin="6dp"
+            android:text="SCIENCE"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn7"
+            android:layout_margin="6dp"
+            android:text="SPORTS"
+            />
+
+
+    </LinearLayout>
+
+</HorizontalScrollView>
+
+    <com.google.android.material.progressindicator.LinearProgressIndicator
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:id="@+id/progress_bar"
+
+        />
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_recucyler_view"
+        />
+
+
+
+</LinearLayout>
